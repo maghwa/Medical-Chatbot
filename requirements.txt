@@ -6,5 +6,6 @@ bitsandbytes
 ctransformers
 sentence_transformers
 faiss_cpu
+mlx
 chainlit
 huggingface_hub
