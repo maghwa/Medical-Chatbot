@@ -9,8 +9,6 @@ To install and run Llama-Healer, you'll need to have the following packages inst
 - `pypdf`
 - `langchain`
 - `torch`
-- `accelerate`
-- `bitsandbytes`
 - `ctransformers`
 - `sentence_transformers`
 - `faiss_cpu`
